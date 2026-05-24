@@ -1,0 +1,4 @@
+Model,Performance,Interpretability,Robustness,Cost Efficiency,Deployment Readiness
+Logistic Regression,1,5,1,5,5
+Random Forest,5,3,2,4,4
+XGBoost,4,2,5,3,3

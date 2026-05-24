@@ -1,0 +1,5 @@
+Criteria,RF,XGB,Logistic
+Performance,4,5,3
+Interpretability,3,2,5
+Robustness,4,4,3
+Cost,3,2,5
